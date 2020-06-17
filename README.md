@@ -1,5 +1,3 @@
-# Logistic-Regression
-Logistic Regression Implementation using Batch Gradient Descent
 # Logistic Regression Implementation using Batch Gradient Descent
 
 This code is implementing logistic regression in Python using batch gradient descent.
